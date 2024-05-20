@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpByehy2U/4i1i64moa8qJZzXP/yjLyX1SoJlOUMWQQJe84yHnXRNYjIpNoOetotgSuYwcqn5QGv4CSPOF4l3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sedus\\OneDrive\\Рабочий стол\\домашка\\HomeWork\\HomeWork\\HomeWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
